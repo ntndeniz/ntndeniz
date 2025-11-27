@@ -1,16 +1,22 @@
-## Hi there 👋
+### Selam, ben Deniz! 👋
 
-<!--
-**ntndeniz/ntndeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben Düzce Üniversitesi'nde öğrenciyim ve Python ile hayatı kolaylaştıran otomasyonlar geliştiriyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Kullandığım Teknolojiler
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 GitHub İstatistiklerim
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=dark" alt="languages" />
+</p>
+
+---
+ 📫 Bana Ulaşın: [https://github.com/ntndeniz] | [ntndeniz66@gmail.com]
