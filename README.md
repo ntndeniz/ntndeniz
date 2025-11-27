@@ -1,4 +1,4 @@
-### Hi, I'm Deniz! 👋
+### Hi, I'm Nurettin Deniz! 👋
 
 I am a student at Düzce University. In addition to **Python** automation, I am improving my skills and developing projects in **Mobile Development**, **Web Development**, and **Database** technologies.
 
